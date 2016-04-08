@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Hey People!
+Basically A learner for now, Developer on the making.
