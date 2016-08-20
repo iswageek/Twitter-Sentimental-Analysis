@@ -1,0 +1,9 @@
+name: Twitter-Analysis-Shiny-App
+account: isdebo
+server: shinyapps.io
+appId: 120951
+bundleId: 535820
+url: https://isdebo.shinyapps.io/Twitter-Analysis-Shiny-App/
+when: 1471593684.22657
+asMultiple: FALSE
+asStatic: FALSE
